@@ -1,0 +1,177 @@
+[
+  {
+    "first_name": "Alyssa",
+    "middle_initial": "M",
+    "last_name": "Reyes",
+    "program": "BSIT",
+    "year_level": 1
+  },
+  {
+    "first_name": "Marco",
+    "middle_initial": "A",
+    "last_name": "Santos",
+    "program": "BSIS",
+    "year_level": 2
+  },
+  {
+    "first_name": "Jasmine",
+    "middle_initial": "",
+    "last_name": "Dela Cruz",
+    "program": "BSCS",
+    "year_level": 3
+  },
+  {
+    "first_name": "Paolo",
+    "middle_initial": "R",
+    "last_name": "Garcia",
+    "program": "BSIT",
+    "year_level": 4
+  },
+  {
+    "first_name": "Angelica",
+    "middle_initial": "D",
+    "last_name": "Mendoza",
+    "program": "BSIS",
+    "year_level": 1
+  },
+  {
+    "first_name": "Rafael",
+    "middle_initial": "C",
+    "last_name": "Torres",
+    "program": "BSCS",
+    "year_level": 2
+  },
+  {
+    "first_name": "Bianca",
+    "middle_initial": "L",
+    "last_name": "Ramos",
+    "program": "BSIT",
+    "year_level": 3
+  },
+  {
+    "first_name": "Gabriel",
+    "middle_initial": "",
+    "last_name": "Flores",
+    "program": "BSIS",
+    "year_level": 4
+  },
+  {
+    "first_name": "Camille",
+    "middle_initial": "S",
+    "last_name": "Aquino",
+    "program": "BSCS",
+    "year_level": 1
+  },
+  {
+    "first_name": "Joshua",
+    "middle_initial": "T",
+    "last_name": "Bautista",
+    "program": "BSIT",
+    "year_level": 2
+  },
+  {
+    "first_name": "Danica",
+    "middle_initial": "B",
+    "last_name": "Villanueva",
+    "program": "BSIS",
+    "year_level": 3
+  },
+  {
+    "first_name": "Miguel",
+    "middle_initial": "G",
+    "last_name": "Castillo",
+    "program": "BSCS",
+    "year_level": 4
+  },
+  {
+    "first_name": "Kristine",
+    "middle_initial": "",
+    "last_name": "Navarro",
+    "program": "BSIT",
+    "year_level": 1
+  },
+  {
+    "first_name": "Nathan",
+    "middle_initial": "P",
+    "last_name": "Domingo",
+    "program": "BSIS",
+    "year_level": 2
+  },
+  {
+    "first_name": "Patricia",
+    "middle_initial": "E",
+    "last_name": "Salazar",
+    "program": "BSCS",
+    "year_level": 3
+  },
+  {
+    "first_name": "Carlo",
+    "middle_initial": "J",
+    "last_name": "Pascual",
+    "program": "BSIT",
+    "year_level": 4
+  },
+  {
+    "first_name": "Mariel",
+    "middle_initial": "N",
+    "last_name": "Rivera",
+    "program": "BSIS",
+    "year_level": 1
+  },
+  {
+    "first_name": "Jericho",
+    "middle_initial": "",
+    "last_name": "Morales",
+    "program": "BSCS",
+    "year_level": 2
+  },
+  {
+    "first_name": "Sophia",
+    "middle_initial": "F",
+    "last_name": "Fernandez",
+    "program": "BSIT",
+    "year_level": 3
+  },
+  {
+    "first_name": "Adrian",
+    "middle_initial": "H",
+    "last_name": "Lopez",
+    "program": "BSIS",
+    "year_level": 4
+  },
+  {
+    "first_name": "Trisha",
+    "middle_initial": "K",
+    "last_name": "Soriano",
+    "program": "BSCS",
+    "year_level": 1
+  },
+  {
+    "first_name": "Kenneth",
+    "middle_initial": "",
+    "last_name": "Mercado",
+    "program": "BSIT",
+    "year_level": 2
+  },
+  {
+    "first_name": "Lovely",
+    "middle_initial": "V",
+    "last_name": "Valdez",
+    "program": "BSIS",
+    "year_level": 3
+  },
+  {
+    "first_name": "Dominic",
+    "middle_initial": "O",
+    "last_name": "Cruz",
+    "program": "BSCS",
+    "year_level": 4
+  },
+  {
+    "first_name": "Erika",
+    "middle_initial": "Q",
+    "last_name": "Tan",
+    "program": "BSIT",
+    "year_level": 1
+  }
+]
